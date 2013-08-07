@@ -1,3 +1,3 @@
 #!/bin/bash
 
-exec ./out/Default/pxEclient
+exec ./out/Default/pxEclient $@

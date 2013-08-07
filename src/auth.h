@@ -2,8 +2,8 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef PXECLIENT_SRC_AUTH_H
-#define PXECLIENT_SRC_AUTH_H
+#ifndef SRC_AUTH_H_
+#define SRC_AUTH_H_
 
 
-#endif
+#endif  // SRC_AUTH_H_

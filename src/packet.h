@@ -2,8 +2,8 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef PXECLIENT_SRC_PACKET_H
-#define PXECLIENT_SRC_PACKET_H
+#ifndef SRC_PACKET_H_
+#define SRC_PACKET_H_
 
 
-#endif
+#endif  // SRC_PACKET_H_

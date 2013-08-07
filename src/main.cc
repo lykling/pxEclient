@@ -3,12 +3,12 @@
 // found in the LICENSE file.
 
 
-#include <cstdio>
-
 #include "auth.h"
 #include "option.h"
 #include "packet.h"
 
 int main(int argc, char *argv[]) {
-    return 0;
+  option::OptionCheck option_check(argc, argv);
+  option_check.RunCheckLoop();
+  return 0;
 }
