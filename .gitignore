@@ -1,3 +1,9 @@
+# compiled
 *.o
+
+# temp files
 .*.swp
 .*.swo
+
+# out
+out/
