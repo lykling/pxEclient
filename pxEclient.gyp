@@ -15,7 +15,7 @@
       'target_name': 'pxEclient',
       'type': 'executable',
       'sources': [
-        'src/main.cc',
+        'src/pxEclientMain.cc',
         'src/option.cc',
         'src/option.h',
         'src/packet.cc',
@@ -24,5 +24,13 @@
         'src/auth.h',
       ],
     },
+    {
+      'target_name': 'pxEclientUnitTest',
+      'type': 'executable',
+      'sources': [
+        'src/util.h',
+        'src/util.cc',
+        'src/unittest.cc',
+      ],
   ],
 }

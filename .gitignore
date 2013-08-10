@@ -1,5 +1,6 @@
 # compiled
 *.o
+*.out
 
 # temp files
 .*.swp
