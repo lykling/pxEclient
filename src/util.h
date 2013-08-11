@@ -26,5 +26,6 @@
 #define TRUE 1
 
 int GetMacFromDevice(uint8_t *mac, const char *devicename);
+int GetIpFromDevice(uint8_t *ip, const char *devicename);
 
 #endif  // SRC_UTIL_H_
